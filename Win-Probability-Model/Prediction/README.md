@@ -1,4 +1,4 @@
-The files in this script are as follows:
+The files in this directory are as follows:
 
 Inputs -
 
