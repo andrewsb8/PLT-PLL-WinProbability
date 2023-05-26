@@ -9,10 +9,15 @@ In general, I went about creating a model this way:
 - The logistic regression model was trained against this aggregate data with the following logic. The difference between teams' aggregate stats may be good predictors of future performance. By using the difference, you could extrapolate this logic to in-game situations. For example, a team who scores six more goals on average than their opponent leading up to the matchup is more likely to win the upcoming game. Similarly, a team ahead by 6 goals within a game is the more likely team to win. The key was utilizing the **difference** between the teams' stats to determine an advantage or win probability.
 - Box scores were recorded manually during games, due to lack of a live data feed, and win probabilities were calculated using the trained model periodically and then uploaded to the ProLacrosseTalk website as a plot.
 
-Here is an example of one of the final win probability plots generated with this method:
+Here is an example of one of the final win probability plots generated with this method followed by the box score:
 
 ![alt text](https://github.com/andrewsb8/PLT-PLL-WinProbability/blob/main/Win-Probability-Model/Prediction/prob_plot.png)
 
-https://twitter.com/swerdnanairb/status/1439655247836766210?s=20
+![alt text]()
+
+Link to the ![https://stats.premierlacrosseleague.com/games/2021/championship-2021-9-19](game).
+
+These figures were originally sent right to ![https://prolacrossetalk.com/lacrosse-betting/live-stats/](Pro Lacrosse Talk).
+Later I made posts solely on ![https://twitter.com/swerdnanairb/status/1439655247836766210?s=20](Twitter).
 
 The different folders contain scripts for data cleaning and model generation as well as examples of input and output. The data used for this project is in Weekly_Results of PLL_Data.xlsx.
