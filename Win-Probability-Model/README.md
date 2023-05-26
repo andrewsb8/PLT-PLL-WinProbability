@@ -17,7 +17,7 @@ Here is the box score and the final win probability plots generated with this me
 
 ![alt text](https://github.com/andrewsb8/PLT-PLL-WinProbability/blob/main/Win-Probability-Model/Prediction/prob_plot.png)
 
-You can see via the game flow that the Whipsnakes were narrowing their early game deficit in the second quarter and around half time. This is reflected by an actual advantage given to the Whipsnakes without an actual lead. Chaos were committing a large number of turnovers and losing their lead, and this is reflected in the Whipsnakes' win probability. The advantage quickly slipped away as the Chaos scored multiple successive goals in the third quarter and maintained the lead through the rest of the game.
+You can see via the game flow that the Whipsnakes were narrowing their early game deficit in the second quarter and around half time. This is reflected by an actual advantage given to the Whipsnakes without an actual lead. Chaos were committing a large number of turnovers and losing their lead which is reflected in the Whipsnakes' win probability. The advantage quickly slipped away as the Chaos scored multiple successive goals in the third quarter and maintained the lead through the rest of the game.
 
 Link to the [box score](https://stats.premierlacrosseleague.com/games/2021/championship-2021-9-19).
 
