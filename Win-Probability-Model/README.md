@@ -13,9 +13,11 @@ Here is an example of one of the final win probability plots generated with this
 
 ![alt text](https://github.com/andrewsb8/PLT-PLL-WinProbability/blob/main/Win-Probability-Model/Prediction/prob_plot.png)
 
-![alt text]()
+![alt text](https://github.com/andrewsb8/PLT-PLL-WinProbability/blob/main/Win-Probability-Model/Prediction/championship_boxscore.png)
 
-Link to the [game](https://stats.premierlacrosseleague.com/games/2021/championship-2021-9-19).
+You can see via the game flow that the Whips took the lead in the 3rd quarter which is reflected in their advantage in the win probability plot. Then the advantage quickly slipped away as the Chaos scored multiple successive goals.
+
+Link to the [box score](https://stats.premierlacrosseleague.com/games/2021/championship-2021-9-19).
 
 These figures were originally uploaded to [Pro Lacrosse Talk](https://prolacrossetalk.com/lacrosse-betting/live-stats/) via the prediction python script. Later I made posts solely on [Twitter](https://twitter.com/swerdnanairb/status/1439655247836766210?s=20).
 
