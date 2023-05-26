@@ -15,9 +15,9 @@ Here is an example of one of the final win probability plots generated with this
 
 ![alt text]()
 
-Link to the [https://stats.premierlacrosseleague.com/games/2021/championship-2021-9-19](game).
+Link to the [game](https://stats.premierlacrosseleague.com/games/2021/championship-2021-9-19).
 
-These figures were originally sent right to [https://prolacrossetalk.com/lacrosse-betting/live-stats/](Pro Lacrosse Talk).
-Later I made posts solely on [https://twitter.com/swerdnanairb/status/1439655247836766210?s=20](Twitter).
+These figures were originally sent right to [Pro Lacrosse Talk](https://prolacrossetalk.com/lacrosse-betting/live-stats/).
+Later I made posts solely on [Twitter](https://twitter.com/swerdnanairb/status/1439655247836766210?s=20).
 
 The different folders contain scripts for data cleaning and model generation as well as examples of input and output. The data used for this project is in Weekly_Results of PLL_Data.xlsx.
