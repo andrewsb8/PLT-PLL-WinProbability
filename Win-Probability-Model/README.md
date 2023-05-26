@@ -21,4 +21,4 @@ You can see via the game flow that the Whipsnakes were narrowing their early gam
 
 Link to the [box score](https://stats.premierlacrosseleague.com/games/2021/championship-2021-9-19).
 
-This model was originally uploaded to [Pro Lacrosse Talk](https://prolacrossetalk.com/lacrosse-betting/live-stats/) in real time (removed from prediction script for privacy) using the WordPress API. Later I made posts solely on [Twitter](https://twitter.com/swerdnanairb/status/1439655247836766210?s=20).
+Earlier versions of this model were originally uploaded to [Pro Lacrosse Talk](https://prolacrossetalk.com/lacrosse-betting/live-stats/) in real time using the WordPress API (removed from prediction script for privacy). Later I posted on [Twitter](https://twitter.com/swerdnanairb/status/1439655247836766210?s=20) for simplicity.
